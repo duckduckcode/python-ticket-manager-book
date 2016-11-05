@@ -2,7 +2,7 @@
 
 Bottle websites need to run on a **local server**. Plain HTML and CSS websites can be opened directly in a web browser, but Bottle needs a web server so that the Python parts can run.
 
-Running your Bottle app suatomatically starts a web server.
+Running your Bottle app automatically starts a web server.
 
 ## Starting the Site
 
