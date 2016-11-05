@@ -14,8 +14,18 @@
     * [Test Plan](test_plan.md)
     * [Work Log](dailylog_md.md)
 * [Sample Project](example-website.md)
-    * Home Page Layout
-    * Create Check In Page
+    * Documentation
+        * [Project Overview](project-overview.md)
+        * Application Flow
+        * [Test Plan](test-plan.md)
+        * [Work Log](work-log.md)
+    * Home Page
+        * [Edit Template](page-layout.md)
+    * [Check In Page](check-in-page.md)
+        * [Create Template](page-layout.md)
+        * Create Route
+        * Connect Check In Button
+    * [Create Check In Page](create-check-in-page.md)
     * Connect Check In Button
     * Check In Page Layout
     * Connect Back Button
@@ -31,7 +41,7 @@
     * Create Sale Confirm Page
     * Connect Submit Button
     * Display Ticket Sale Counter
-    * Add Custom CSS
+    * Check In Page
 * Cookbook
     * Persisting Basic Data
     * Connecting a Database
