@@ -1,3 +1,7 @@
+---
+video: youtube.com/test
+---
+
 # Website Starter Template
 
 The starter template consists of a Python program called `website.py` which uses Bottle, and a home page which is called `index.html`.
