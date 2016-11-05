@@ -5,7 +5,7 @@ The starter template consists of a Python program called `website.py` which uses
 ## Get the Code
 
 You can download a zip file of the starter template from:
-[github.com/duckduckcode/python-ticket-manager][python-ticket-manager]
+[github.com/duckduckcode/python-ticket-manager][01]
 
 ## The Website Program
 
@@ -25,4 +25,4 @@ code here
 
 
 
-[python-ticket-manager]: http://github.com/duckduckcode/python-ticket-manager
+[01]: http://github.com/duckduckcode/python-ticket-manager
