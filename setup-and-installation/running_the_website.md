@@ -22,7 +22,7 @@ In your command line:
 
 - Press Ctrl + C
 
-Your website should no long load in a web browser as the web server should have shut down.
+This will shut down the web server, so your website will no longer load in a web browser.
 
 
 ## Reloading Changes
