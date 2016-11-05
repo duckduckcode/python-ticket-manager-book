@@ -19,7 +19,7 @@ Code here
 
 index.html
 
-```html5
+```html
 code here
 ```
 
