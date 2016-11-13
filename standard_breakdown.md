@@ -43,7 +43,7 @@ The additional requirements for Merit are:
 The additional requirements for Excellence are:
 
 - **Logical decomposition of the task**
-  ???
+  Program should meet the brief without feature creep. The code should be logically organised and demonstrate sensible use of programmatic structures.
 - **Flexible and robust program**
   The program should be easily adapted by modifying key elements, such as lists of items or key values. It should be clear where to make these changes in the code, and the program should correctly use the changes.
 - **Concise code**
