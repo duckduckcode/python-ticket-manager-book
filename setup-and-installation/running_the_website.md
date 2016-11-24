@@ -16,7 +16,7 @@ Open the address `http://localhost:8080` in your web browser. You should see "He
 
 ## Stopping the Site
 
-You may like to stop the site if something goes wrong or if you want to change some launch settings, but most of the time you can just leave it running.
+Most of the time you can just leave the site running. You can stop the site if something goes wrong or if you want to change some launch settings.
 
 In your command line:
 
