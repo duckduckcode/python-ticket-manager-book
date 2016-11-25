@@ -23,15 +23,15 @@
 
 ```
 <form>
-
-  <input name="first_name" type="text">
+  
   <label for="first_name">First Name</label>
-
-  <input name="last_name" type="text">
+  <input name="first_name" type="text">
+  
   <label for="last_name">Last Name</label>
+  <input name="last_name" type="text">
 
-  <input name="email" type="email">
   <label for="email">Email</label>
+  <input name="email" type="email">
 
   <button type="submit">Submit</button>
   
