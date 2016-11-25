@@ -29,7 +29,7 @@
        * [Display a List](display-a-list.md)
        * [Create a Ticket Class](create-a-ticket-class.md)
    * Sell Ticket Form
-       * Create Form
+       * [Create Form](create-form.md)
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
