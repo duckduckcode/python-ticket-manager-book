@@ -48,6 +48,7 @@
    * Display Ticket Sale Counter
    * Check In Page
    * Ticket List
+   * Design With Materialize
 * Cookbook
    * Persisting Basic Data
    * Connecting a Database
