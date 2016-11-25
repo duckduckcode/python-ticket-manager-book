@@ -15,5 +15,13 @@ def index():
 
 ```
 
+- Add launcher
+
+```
+# START THE WEBSITE ###########
+
+run(host='0.0.0.0', port=8080, reloader=True, debug=True)
+```
+
 
 
