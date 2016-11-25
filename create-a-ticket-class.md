@@ -26,3 +26,9 @@ tickets = [
 - Update the view to loop over Tickets not strings
 
 ```
+<ul>
+    % for ticket in ticket_list:
+        <li>{{ ticket.first_name }} {{ ticket.last_name }}</li>
+    % end
+</ul>
+```
