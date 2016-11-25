@@ -21,7 +21,7 @@
        * [Work Log](work-log.md)
    * Site Framework
        * [Creating a Site](creating-a-site.md)
-       * Adding Pages
+       * [Adding Pages](adding-pages.md)
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
