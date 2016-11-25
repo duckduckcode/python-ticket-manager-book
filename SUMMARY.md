@@ -26,7 +26,7 @@
        * [Creating Buttons](creating-buttons.md)
    * Ticket List
        * [Create a List](create-a-list.md)
-       * Display a List
+       * [Display a List](display-a-list.md)
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
