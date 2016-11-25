@@ -35,7 +35,7 @@ def index():
     return "home page"
 ```
 
-- Change the function to pass
+- Change the function to pass instead of return
 
 ```
 # Home Page
@@ -44,3 +44,7 @@ def index():
 def index():
     pass
 ```
+
+- Check the view template loads at `http://localhost:5000`
+
+- Do the same for `sell-ticket` and `check-in`
