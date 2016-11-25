@@ -20,7 +20,7 @@
        * [Test Plan](test-plan.md)
        * [Work Log](work-log.md)
    * Site Framework
-       * Creating a Site
+       * [Creating a Site](creating-a-site.md)
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
