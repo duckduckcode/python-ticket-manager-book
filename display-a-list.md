@@ -46,3 +46,5 @@ def check_in():
     % end
 </ul>
 ```
+
+- Preview at `http://localhost:5000/check-in`
