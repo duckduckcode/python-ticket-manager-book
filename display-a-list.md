@@ -29,7 +29,20 @@ def check_in():
 
 ```
 <ul>
-    % for ticket in ticket_list:
+    % for name in ticket_list:
         <li>Person Name</li>
-    % endfor
+    % end
 </ul>
+```
+
+- Preview to ensure it has run one for every ticket
+
+- Replace Person Name with each name in the ticket list
+
+```
+<ul>
+    % for name in ticket_list:
+        <li>{{ name }}</li>
+    % end
+</ul>
+```
