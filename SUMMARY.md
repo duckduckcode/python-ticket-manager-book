@@ -19,9 +19,6 @@
        * Application Flow
        * [Test Plan](test-plan.md)
        * [Work Log](work-log.md)
-   * [Check In Page](check-in-page.md)
-       * Create Route
-       * Connect Check In Button
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
