@@ -41,6 +41,7 @@
    * Connect Submit Button
    * Display Ticket Sale Counter
    * Check In Page
+   * Ticket List
 * Cookbook
    * Persisting Basic Data
    * Connecting a Database
