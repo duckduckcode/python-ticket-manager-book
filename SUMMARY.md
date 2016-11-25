@@ -13,6 +13,7 @@
    * [Flow Chart](flow_chart.md)
    * [Test Plan](test_plan.md)
    * [Work Log](dailylog_md.md)
+* Ticket List
 * [Sample Project](example-website.md)
    * Documentation
        * [Project Overview](project-overview.md)
