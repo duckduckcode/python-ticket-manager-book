@@ -14,7 +14,6 @@
    * [Test Plan](test_plan.md)
    * [Work Log](dailylog_md.md)
 * [Sample Project](example-website.md)
-   * Ticket List
    * Documentation
        * [Project Overview](project-overview.md)
        * Application Flow
@@ -25,6 +24,7 @@
        * [Adding Pages](adding-pages.md)
        * [Page Templates](page-templates.md)
        * [Creating Buttons](creating-buttons.md)
+   * Ticket List
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
