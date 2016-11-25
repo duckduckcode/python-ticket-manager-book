@@ -32,6 +32,7 @@
        * [Create Form](create-form.md)
    * Design With Materialize
        * [Import Materialize](import-materialize.md)
+       * Create a Shared Head
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
