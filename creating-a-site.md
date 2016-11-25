@@ -17,7 +17,7 @@ from bottle import run, route
 # Home Page
 @route('/')
 def index():
-    return 'hello'
+    return 'home page'
 
 ```
 
