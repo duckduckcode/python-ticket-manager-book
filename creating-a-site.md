@@ -1,6 +1,6 @@
 # Creating a Site
 
-- Create website.py
+- Create file `website.py`
 
 - From bottle import run
 - From bottle import route
