@@ -28,6 +28,7 @@
        * [Create a List](create-a-list.md)
        * [Display a List](display-a-list.md)
        * [Create a Ticket Class](create-a-ticket-class.md)
+   * Sell Ticket Form
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
@@ -46,7 +47,6 @@
    * Display Ticket Sale Counter
    * Check In Page
    * Ticket List
-   * Sell Ticket Form
 * Cookbook
    * Persisting Basic Data
    * Connecting a Database
