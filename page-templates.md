@@ -48,3 +48,5 @@ def index():
 - Check the view template loads at `http://localhost:5000`
 
 - Do the same for `sell-ticket` and `check-in`
+
+- When adding @view decorator or any others, they must always come after @route
