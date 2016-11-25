@@ -19,6 +19,7 @@
        * Application Flow
        * [Test Plan](test-plan.md)
        * [Work Log](work-log.md)
+   * Site Framework
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
@@ -47,5 +48,4 @@
    * Bootstrap
    * Routes
    * Templates
-* Site Framework
 
