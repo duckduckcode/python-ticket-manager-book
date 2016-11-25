@@ -28,7 +28,11 @@ tickets = [
 ```
 <ul>
     % for ticket in ticket_list:
-        <li>{{ ticket.first_name }} {{ ticket.last_name }}</li>
+        <li>{{ ticket.first_name }}</li>
     % end
 </ul>
 ```
+
+- Preview at `http://localhost:5000/check-in`
+
+- Make the list display first and last name
