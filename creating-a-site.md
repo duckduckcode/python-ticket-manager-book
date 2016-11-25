@@ -1,8 +1,14 @@
 # Creating a Site
 
 - Create website.py
+
 - From bottle import run
 - From bottle import route
+
+```
+from bottle import run, route
+```
+
 - Create home page route:
 
 ```
