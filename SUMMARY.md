@@ -38,6 +38,7 @@
        * [Sell Ticket Page Design](sell-ticket-page-design.md)
    * Process Ticket Sales
        * [Create Confirmation Page](create-confirmation-page.md)
+       * Create Confirmation Page Route
    * Create Check In Confirm Page
    * Connect Tick Button
    * Code Check In Functionality
