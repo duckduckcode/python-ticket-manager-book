@@ -42,6 +42,7 @@
        * [Add ID Support to Tickets](add-id-support-to-tickets.md)
        * [Update Ticket Status](update-ticket-status.md)
        * [Display Ticket Status](display-ticket-status.md)
+       * Display Confirmation
    * Process Ticket Sales
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
