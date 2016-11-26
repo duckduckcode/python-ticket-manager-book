@@ -12,21 +12,15 @@
 
         <div class="container pink-text">
 
-            % if ticket == None:
 
                 <h1>Check-In Failed</h1>
 
                 <strong>Sorry, that ticket wasn't found :(</strong>
 
-            % else:
-
                 <h1>Success!</h1>
 
-                <strong>{{ ticket.first_name }} {{ ticket.last_name }}</strong>
+                <strong>Person Name</strong>
                 <p>has been checked in.</p>
-
-            % end
-
 
         </div>
 
