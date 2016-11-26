@@ -44,7 +44,6 @@
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
        * [Create New Ticket](create-new-ticket.md)
-       * [Update Ticket Status](update-ticket-status.md)
    * Create Check In Confirm Page
    * Connect Tick Button
    * Code Check In Functionality
