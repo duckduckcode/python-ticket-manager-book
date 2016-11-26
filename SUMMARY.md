@@ -48,6 +48,7 @@
    * Display Ticket Sale Counter
    * Check In Page
    * Ticket List
+   * Process Ticket Sales
 * Cookbook
    * Persisting Basic Data
    * Connecting a Database
