@@ -1,5 +1,7 @@
 # Create Confirmation Page
 
+- Create `check-in-confirmation.html`
+
 ```
 <!DOCTYPE html>
 <html>
