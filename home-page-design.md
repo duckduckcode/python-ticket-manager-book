@@ -1,5 +1,10 @@
 # Home Page Design
 
+- Add classes `pink` and `center-align` to the body
+- Put the `h1` heading in a div with style classes
+- Put the buttons in a container
+- Put each button in its own row
+
 ```
 <!DOCTYPE html>
 <html>
