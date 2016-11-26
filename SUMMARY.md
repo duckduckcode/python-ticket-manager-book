@@ -36,6 +36,7 @@
        * [Home Page Design](home-page-design.md)
        * [Check In Page Design](check-in-page-design.md)
        * [Sell Ticket Page Design](sell-ticket-page-design.md)
+   * Process Ticket Sales
    * Create Check In Confirm Page
    * Connect Tick Button
    * Code Check In Functionality
@@ -48,7 +49,6 @@
    * Display Ticket Sale Counter
    * Check In Page
    * Ticket List
-   * Process Ticket Sales
 * Cookbook
    * Persisting Basic Data
    * Connecting a Database
