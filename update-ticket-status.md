@@ -1,5 +1,7 @@
 # Update Ticket Status
 
+
+- Get the ticket 
 ```
 # Check In Confirmation Page
 @route('/check-in-confirmation/<ticket_id>')

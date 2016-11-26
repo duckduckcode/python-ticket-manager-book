@@ -40,7 +40,7 @@
        * [Create Confirmation Page](create- checkin-confirmation-page.md)
        * [Create Confirmation Page Route](create-checkin-confirmation-page-route.md)
        * [Update Ticket Status](update-ticket-status.md)
-       * Add ID Support to Tickets
+       * [Add ID Support to Tickets](add-id-support-to-tickets.md)
    * Process Ticket Sales
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
