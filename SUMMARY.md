@@ -36,6 +36,7 @@
        * [Home Page Design](home-page-design.md)
        * [Check In Page Design](check-in-page-design.md)
        * [Sell Ticket Page Design](sell-ticket-page-design.md)
+   * Process Check Ins
    * Process Ticket Sales
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
@@ -52,7 +53,6 @@
    * Display Ticket Sale Counter
    * Check In Page
    * Ticket List
-   * Process Check Ins
 * Cookbook
    * Persisting Basic Data
    * Connecting a Database
