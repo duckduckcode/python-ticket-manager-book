@@ -33,6 +33,7 @@
    * Design With Materialize
        * [Create a Shared Head](create-a-shared-head.md)
        * [Import Materialize](import-materialize.md)
+       * Home Page Design
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
