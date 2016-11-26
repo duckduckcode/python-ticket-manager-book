@@ -37,6 +37,7 @@
        * [Check In Page Design](check-in-page-design.md)
        * [Sell Ticket Page Design](sell-ticket-page-design.md)
    * Process Check Ins
+       * Create Confirmation Page
    * Process Ticket Sales
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
