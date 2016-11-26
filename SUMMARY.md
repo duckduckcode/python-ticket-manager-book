@@ -36,7 +36,6 @@
        * [Home Page Design](home-page-design.md)
        * [Check In Page Design](check-in-page-design.md)
        * [Sell Ticket Page Design](sell-ticket-page-design.md)
-   * Connect Check In Button
    * Check In Page Layout
    * Connect Back Button
    * Create Ticket List
