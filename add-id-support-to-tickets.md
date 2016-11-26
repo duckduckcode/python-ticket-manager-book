@@ -37,4 +37,7 @@ class Ticket:
 
 - Print the ID in the ticket list to check it worked
 
+```
+<li>{{ticket.first_name}} {{ticket.last_name}} {{ticket.id}}</li>
+```
 
