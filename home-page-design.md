@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 
-    % include('components/html-head.html')
+    % include('shared/html-head.html')
 
     <body class="pink center-align">
 
