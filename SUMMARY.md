@@ -35,6 +35,7 @@
        * [Import Materialize](import-materialize.md)
        * [Home Page Design](home-page-design.md)
        * [Check In Page Design](check-in-page-design.md)
+       * Sell Ticket Page Design
    * [Create Check In Page](create-check-in-page.md)
    * Connect Check In Button
    * Check In Page Layout
