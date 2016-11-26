@@ -39,7 +39,7 @@
    * Process Ticket Sales
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
-       * Update Ticket Status
+       * [Update Ticket Status](update-ticket-status.md)
    * Create Check In Confirm Page
    * Connect Tick Button
    * Code Check In Functionality
