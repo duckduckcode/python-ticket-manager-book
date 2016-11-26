@@ -39,7 +39,7 @@
    * Process Check Ins
        * [Create Confirmation Page](create- checkin-confirmation-page.md)
        * [Create Confirmation Page Route](create-checkin-confirmation-page-route.md)
-       * Create New Ticket
+       * [Create New Ticket](create-new-ticket.md)
    * Process Ticket Sales
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
