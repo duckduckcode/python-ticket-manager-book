@@ -16,7 +16,7 @@
 * [Sample Project](example-website.md)
    * Documentation
        * [Project Overview](project-overview.md)
-       * Application Flow
+       * [Application Flow](application-flow.md)
        * [Test Plan](test-plan.md)
        * [Work Log](work-log.md)
    * Site Framework
