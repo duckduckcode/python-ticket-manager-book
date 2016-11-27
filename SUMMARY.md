@@ -47,7 +47,6 @@
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
        * [Create New Ticket](create-new-ticket.md)
-   * Ticket List
 * Cookbook
    * Persisting Basic Data
    * Connecting a Database
