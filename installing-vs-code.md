@@ -9,5 +9,8 @@ You will need to download and install VS Code.
 - Download from [http://code.visualstudio.com](http://code.visualstudio.com)
 - Run the Installer
 - Open VS Code to check that it installed correctly
+- Open the Integrated terminal (Ctrl + \`)
+- Try `python -V`
+- If it doesn't work, try `py -V`
 
 
