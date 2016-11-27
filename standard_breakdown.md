@@ -4,11 +4,13 @@
 
 The program must have:
 
-- A modular structure with parameters
-- An indexed data structure
+- Functions with parameters
+- A list/array
 - Input and Output
 - Conditionals
 - Loops
+- Comments
+- Working code
 
 ## Achieved
 
