@@ -47,7 +47,6 @@
        * [Create Confirmation Page](create-confirmation-page.md)
        * [Create Confirmation Page Route](create-confirmation-page-route.md)
        * [Create New Ticket](create-new-ticket.md)
-   * Create Sell Ticket Page
    * Connect Sell Ticket Button
    * Sell Ticket Page Layout
    * Create Sale Confirm Page
