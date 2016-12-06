@@ -4,7 +4,7 @@
 * [Standard Breakdown](standard-breakdown.md)
 * [Setup and Installation](setup-and-installation/index.md)
    * [Installing Python 3](setup-and-installation/installing-python-3.md)
-   * [Installing Bottle](setup-and-installation/installing_bottle.md)
+   * [Installing Bottle](setup-and-installation/installing-bottle.md)
    * [Installing Visual Studio Code](installing-vs-code.md)
    * [Website Starter Template](setup-and-installation/website_starter_template.md)
    * [Running the Website](setup-and-installation/running_the_website.md)
