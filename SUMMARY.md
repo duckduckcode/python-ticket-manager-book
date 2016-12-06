@@ -8,9 +8,9 @@
    * [Installing Visual Studio Code](setup-and-installation/installing-vs-code.md)
    * [Running the Website](setup-and-installation/running-the-website.md)
 * [Planning](planning.md)
-   * [Flow Chart](flow_chart.md)
-   * [Test Plan](test_plan.md)
-   * [Work Log](dailylog_md.md)
+   * [Flow Chart](planning/flow-chart.md)
+   * [Test Plan](planning/test-plan.md)
+   * [Work Log](planning/work-log.md)
 * [Sample Project](example-website.md)
    * Documentation
        * [Project Overview](project-overview.md)
