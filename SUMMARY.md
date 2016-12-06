@@ -7,7 +7,7 @@
    * [Installing Bottle](setup-and-installation/installing-bottle.md)
    * [Installing Visual Studio Code](installing-vs-code.md)
    * [Website Starter Template](setup-and-installation/website_starter_template.md)
-   * [Running the Website](setup-and-installation/running_the_website.md)
+   * [Running the Website](setup-and-installation/running-the-website.md)
 * [Planning](planning.md)
    * [Flow Chart](flow_chart.md)
    * [Test Plan](test_plan.md)
