@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Standard Breakdown](standard-breakdown.md)
-* [Setup and Installation](setup-and-installation.md)
+* [Setup and Installation](setup-and-installation/index.html)
    * [Installing Python 3](setup-and-installation/installing_python_3.md)
    * [Installing Bottle](setup-and-installation/installing_bottle.md)
    * [Installing Visual Studio Code](installing-vs-code.md)
