@@ -13,7 +13,7 @@ This course will guide you through creating a basic Python-backed website. You w
 - Documentation (incomplete)
 
 
-## Technical overview
+## Technical Overview
 Create a complex program which has a graphical interface. It should take user input and do some processing to create a visual output. 
 
 The program needs to be coded clearly and thoughtfully. It must demonstrate event handling, the use of an indexed data structure, the use of a class to store data and functionality, and programming control structures including loops and conditional statements. 
