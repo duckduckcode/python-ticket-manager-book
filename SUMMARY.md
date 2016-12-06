@@ -55,7 +55,7 @@
 * Independent Projects
    * [Comic Book Store](comic_book_store.md)
 * Documentation
-   * Bootstrap
+   * Materialize
    * Routes
    * Templates
 
