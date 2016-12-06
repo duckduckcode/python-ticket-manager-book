@@ -10,7 +10,7 @@
 * [Planning](planning.md)
    * [Flow Chart](planning/flow-chart.md)
    * [Test Plan](planning/test-plan.md)
-   * [Work Log](dailylog_md.md)
+   * [Work Log](planning/work-log.md)
 * [Sample Project](example-website.md)
    * Documentation
        * [Project Overview](project-overview.md)
