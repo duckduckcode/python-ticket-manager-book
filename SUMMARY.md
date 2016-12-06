@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Standard Breakdown](standard_breakdown.md)
+* [Standard Breakdown](standard-breakdown.md)
 * [Setup and Installation](setup_and_installation.md)
    * [Installing Python 3](setup-and-installation/installing_python_3.md)
    * [Installing Bottle](setup-and-installation/installing_bottle.md)
