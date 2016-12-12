@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Getting Started
+* [Getting Started](getting-started.md)
     * [Cloud Development](cloud-development.md)
     * [Desktop Development](desktop-development.md)
 * [Standard Breakdown](standard-breakdown.md)
