@@ -1,10 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
+* [Standard Breakdown](standard-breakdown.md)
 * [Getting Started](getting-started.md)
     * [Cloud Development](cloud-development.md)
     * [Desktop Development](desktop-development.md)
-* [Standard Breakdown](standard-breakdown.md)
+    * [Bottle Starter App](bottle-starter-app.md)
 * [Setup and Installation](setup-and-installation/index.md)
     * [Installing Python 3](setup-and-installation/installing-python-3.md)
     * [Installing Bottle](setup-and-installation/installing-bottle.md)
