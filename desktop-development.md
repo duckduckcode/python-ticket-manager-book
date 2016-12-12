@@ -12,13 +12,12 @@ These instructions will guide you through getting started with Bottle developmen
 * Open a new command line window
 * Type `python3 -V` \(that is a capital V!\) and press enter
 * If it says `Python 3.?.?` then Python is working correctly
-* Note: some computers will use just `python` instead of `python3`
-
-
+* Note: some computers will need you to use just `python` instead of `python3`
 
 ## Install Bottle
 
-
+* In your shell type \`pip install bottle\` and press enter
+* Wait for the installer to complete
 
 
 
