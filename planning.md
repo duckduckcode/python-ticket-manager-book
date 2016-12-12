@@ -11,7 +11,7 @@ Before you begin coding, create the following documents:
 
 ## Work Log
 
-Begin logging immediately. Write a very brief record of what you achieved \(or didn't achieve\) each time you do some work on your project. Record everything, no matter how small.
+Begin logging immediately. Write a very brief record of what you achieved \(or didn't achieve\) each time you do some work on your project. Record everything, no matter how small. Bullet points are acceptable.
 
 ## Visual Flow Diagram
 
