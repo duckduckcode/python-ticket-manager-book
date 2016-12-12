@@ -9,29 +9,21 @@ Before you begin coding, create the following documents:
 * Data Flow Diagram
 * Test Plan
 
-
-
 ## Work Log
 
 Begin logging immediately. Write a vey brief record of what you achieved \(or didn't achieve\) each time you do some work on your project. Record everything, no matter how small.
-
-
 
 ## Visual Flow Diagram
 
 This may be hand drawn or computer generated. It may be reviewed and changed during development of your project, but you must do a best-guess plan before beginning.
 
-
-
 ## Data Flow Diagram
 
 This may be hand drawn or computer generated. It may be reviewed and changed during development of your project, but you must do a best-guess plan before beginning.
-
-
 
 ## Test Plan
 
 This must be clear and easy to follow for a person unfamiliar with your project. It may be reviewed and changed during development of your project, but you must record as many known tests as possible before beginning.
 
-
+Think about all the things you could break, or that someone could do wrong. Document them all!
 

@@ -16,9 +16,8 @@ View sample code for a variety of common use-cases.
 **Documentation \(incomplete\)**  
 Guidance around some of the core principles needed for this assessment.
 
-**Assessment**  
+[**Assessment**](/assessment.md)  
 Everything you need to plan, develop and deliver the final assessment task.
-
 
 ## Technical Overview
 
