@@ -49,15 +49,13 @@
     * Connecting a Database
     * Using Media
     * Partial Templates
-* Independent Projects
-    * [Comic Book Store](comic_book_store.md)
 * Documentation
     * [Materialize](materialize.md)
     * Routes
     * Templates
 * [Assessment](assessment.md)
     * [Project Brief](project-brief.md)
-    * Planning
+    * [Planning](planning.md)
     * Development
     * Submission
 
