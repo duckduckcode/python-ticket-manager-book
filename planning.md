@@ -15,11 +15,11 @@ Begin logging immediately. Write a very brief record of what you achieved \(or d
 
 ## Visual Flow Diagram
 
-This may be hand drawn or computer generated. It may be reviewed and changed during development of your project, but you must do a best-guess plan before beginning.
+This may be hand drawn or computer generated. It may be reviewed and changed during development of your project, but you must do a plan before beginning.
 
 ## Data Flow Diagram
 
-This may be hand drawn or computer generated. It may be reviewed and changed during development of your project, but you must do a best-guess plan before beginning.
+This may be hand drawn or computer generated. It may be reviewed and changed during development of your project, but you must do a plan before beginning.
 
 ## Test Plan
 
