@@ -27,3 +27,5 @@ This must be clear and easy to follow for a person unfamiliar with your project.
 
 Think about all the things you could break, or that someone could do wrong. Document them all!
 
+You need to specifically address expected, boundary and invalid test cases.
+
