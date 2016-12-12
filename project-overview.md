@@ -4,4 +4,14 @@ A ticket manager which will allow us to sell tickets, and check people in to the
 
 You can see the final code and preview the working application on Cloud9:
 
-https://ide.c9.io/tanyagray/bottle-ticket-manager
+[https://ide.c9.io/tanyagray/bottle-ticket-manager](https://ide.c9.io/tanyagray/bottle-ticket-manager)
+
+
+
+## Checklist
+
+* Try out the demo app
+
+
+
+
