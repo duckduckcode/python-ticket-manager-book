@@ -14,6 +14,8 @@ Your project must meet the following technical requirements:
 
 * Your code must be well-commented
 
+* You must include functions with parameters
+
 * You must write and use a Python class
 
 * You must include a Python-based list
@@ -21,8 +23,6 @@ Your project must meet the following technical requirements:
 * You must use a conditional statement
 
 * You must use a loop
-
-
 
 
 ## Running Application
@@ -45,6 +45,10 @@ The program has "output" by definition, but make sure to include some output whi
 
 Remember that you can use comments in all languages used in this project. Comment your HTML where it would be helpful, your CSS when the naming or purpose could do with some clarity, your Python to explain your logic, and your JavaScript too if you choose to do any. Comments should help someone unfamiliar with your project understand what the code does, and why.
 
+## Functions with Parameters
+
+You'll need to ensure that there are functions in your code where you pass in at least one parameter and then use it sensibly within the function. The best example of this is a route which can accept route parameters.
+
 ## Python Class
 
 You need to design and code a class for use in your app. The class needs to be written in Python - we're not talking about CSS classes or JavaScript classes! You also need to use that class to create multiple instances of the object it describes.
@@ -60,6 +64,4 @@ You must use an "if" statement somewhere in your code. It may be in a Python fun
 ## Loop
 
 You must use a loop somewhere in your code. It may be in a Python function as you would traditionally use one. It may also be in an HTML template, using Bottle's Python-based template language.
-
-
 
