@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Getting Started
     * [Cloud Development](cloud-development.md)
-    * Desktop Development
+    * [Desktop Development](desktop-development.md)
 * [Standard Breakdown](standard-breakdown.md)
 * [Setup and Installation](setup-and-installation/index.md)
     * [Installing Python 3](setup-and-installation/installing-python-3.md)
