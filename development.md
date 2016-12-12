@@ -1,6 +1,6 @@
 # Development
 
-As you develop your project, be sure to record each achievement or setback in your work log. You may also update your visual flow or data flow as you go.
+As you develop your project, be sure to record each achievement or setback in your work log. You may also update your visual flow or data flow as you go. You may also add or modify test cases in your test plan as you go.
 
 Your project must meet the following technical requirements:
 
