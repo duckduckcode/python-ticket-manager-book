@@ -29,17 +29,11 @@ Pip is a command line app just like Python, and is installed automatically when 
 ## Install Visual Studio Code
 
 * Download from [http://code.visualstudio.com](http://code.visualstudio.com)
-
 * Run the Installer
-
 * Open VS Code to check that it installed correctly
-
 * Open the Integrated terminal \( Ctrl + \` \)
-
-* Try python -V
-
-
-* If it doesn't work, try py -V
+* Try `python -V`
+* If it doesn't work, try `py -V`
 
 VS Code is a free, lightweight code editor created by Microsoft. It works on all operating systems and supports most major programming languages. Visual Studio Code is not the same as Visual Studio. If you already have Visual Studio installed, you will still need to install Visual Studio Code.
 
