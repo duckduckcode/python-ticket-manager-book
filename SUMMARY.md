@@ -56,6 +56,6 @@
 * [Assessment](assessment.md)
     * [Project Brief](project-brief.md)
     * [Planning](planning.md)
-    * Development
-    * Submission
+    * [Development](development.md)
+    * [Submission](submission.md)
 
