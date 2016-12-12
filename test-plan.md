@@ -1,16 +1,14 @@
 # Test Plan
 
-We need a work log to keep track of what we did.
+We need a plan to keep track of all our testing.
 
+Each test entry should have:
 
+* The test to do \(word for word instructions\)
 
-Each log entry should have:
+* The test's type \(expected / boundary / invalid \)
 
-* Date and time
-
-* Work completed \(feature / bugfix / test\)
-
-* Anything unexpected
+* The expected output \(what should happen when the test is done\)
 
 
 
