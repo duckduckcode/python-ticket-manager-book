@@ -1,6 +1,6 @@
 # Planning
 
-Your planning documents should record your thought process and should record the evolution of your project over time. All documents can be reviewed throughout development of your app, but changes should be recorded where possible.
+Your planning documents should record your thought process and should record the evolution of your project over time. All documents can be updated during development of your app, but changes should be recorded where possible.
 
 Before you begin coding, create the following documents:
 

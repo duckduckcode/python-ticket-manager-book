@@ -6,10 +6,6 @@
     * [Cloud Development](cloud-development.md)
     * [Desktop Development](desktop-development.md)
     * [Bottle Starter App](bottle-starter-app.md)
-* [Planning](planning.md)
-    * [Flow Chart](planning/flow-chart.md)
-    * [Test Plan](planning/test-plan.md)
-    * [Work Log](planning/work-log.md)
 * [Sample Project](example-website.md)
     * Documentation
         * [Project Overview](project-overview.md)
@@ -44,15 +40,18 @@
         * [Create Confirmation Page](create-confirmation-page.md)
         * [Create Confirmation Page Route](create-confirmation-page-route.md)
         * [Create New Ticket](create-new-ticket.md)
-* Cookbook
-    * Persisting Basic Data
-    * Connecting a Database
-    * Using Media
-    * Partial Templates
-* Documentation
+* [Cookbook](cookbook.md)
+    * [Test Plan](planning/test-plan.md)
+    * [Work Log](planning/work-log.md)
+    * [Using Media](using-media.md)
+    * [Persisting Basic Data](persisting-basic-data.md)
+    * [Partial Templates](partial-templates.md)
+    * [Connecting a Database](connecting-a-database.md)
+* [Flow Chart](planning/flow-chart.md)
+* [Documentation](documentation.md)
     * [Materialize](materialize.md)
-    * Routes
-    * Templates
+    * [Routes](routes.md)
+    * [Templates](templates.md)
 * [Assessment](assessment.md)
     * [Project Brief](project-brief.md)
     * [Planning](planning.md)
