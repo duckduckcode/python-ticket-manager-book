@@ -6,11 +6,6 @@
     * [Cloud Development](cloud-development.md)
     * [Desktop Development](desktop-development.md)
     * [Bottle Starter App](bottle-starter-app.md)
-* [Setup and Installation](setup-and-installation/index.md)
-    * [Installing Python 3](setup-and-installation/installing-python-3.md)
-    * [Installing Bottle](setup-and-installation/installing-bottle.md)
-    * [Installing Visual Studio Code](setup-and-installation/installing-vs-code.md)
-    * [Running the Website](setup-and-installation/running-the-website.md)
 * [Planning](planning.md)
     * [Flow Chart](planning/flow-chart.md)
     * [Test Plan](planning/test-plan.md)
@@ -57,7 +52,12 @@
 * Independent Projects
     * [Comic Book Store](comic_book_store.md)
 * Documentation
-    * Materialize
+    * [Materialize](materialize.md)
     * Routes
     * Templates
+* [Assessment](assessment.md)
+    * [Project Brief](project-brief.md)
+    * Planning
+    * Development
+    * Submission
 
